@@ -1,6 +1,7 @@
 
 
-================== README for NODEHEAP ===================
+node-heap
+=========
 
 Written by Khamille A. Sarmiento
 for CS 241: Data Structures and Algorithms II
