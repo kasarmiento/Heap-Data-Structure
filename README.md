@@ -3,6 +3,8 @@
 node-heap
 =========
 
+My implementation of a heap using nodes. Designed to function as a tree graph.
+
 Written by Khamille A. Sarmiento
 for CS 241: Data Structures and Algorithms II
 Professor: Edwin Rodr&iacute;guez
