@@ -11,7 +11,6 @@ Professor: Edwin Rodr&iacute;guez
 
 
 ##Assignment Description 
-======================
 
 The assignment calls for the implementation of a heap using nodes and links instead of the traditional array implementation. The methods that were inherited from the Heap interface were the following: 
 
@@ -32,7 +31,6 @@ every function call.
 
 
 ##My Approach
-===========
 
 In order to find a desired node, I used binary conversions to help me map the path that I need to take in this essentially complete binary tree. I was very happy to discover an efficient and intuitive way of finding a particular node. If you read the documentation for my code, I have explained how my binary conversions work and how it can help me find any node I need to.
 
@@ -40,7 +38,6 @@ In order to implement the algorithm Heap Sort using nodes instead of arrays was 
 
 
 ##Conclusions and lessons learned
-===============================
 
 I learned that programming can be fun, especially when I understand the problem clearly. But more importantly, I learned that there is a pattern that can be performed to solve every problem. The challenge is to find that pattern. 
 
